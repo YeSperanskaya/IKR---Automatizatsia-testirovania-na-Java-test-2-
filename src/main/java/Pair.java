@@ -9,6 +9,14 @@ public class Pair {
         this.second = second;
     }
 
+    public Double getFirst() {
+        return first;
+    }
+
+    public Double getSecond() {
+        return second;
+    }
+
     @Override
     public String toString() {
         return "Answer{" +
